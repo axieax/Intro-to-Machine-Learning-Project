@@ -8,9 +8,9 @@ Copyrights ramains with the original author(s) and strictly forbids copying / mo
 
 ## Contributors
 
-Andrew Chun @aychun
+Andrew Chun [@aychun](https://github.com/aychun)
 
-Andrew Xie @axieax
+Andrew Xie [@axieax](https://github.com/axieax)
 
-Raymond Li @raylfli
+Raymond Li [@raylfli](https://github.com/raylfli)
  
